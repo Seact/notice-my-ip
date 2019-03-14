@@ -1,0 +1,9 @@
+[package]
+name = "notice-my-ip"
+version = "0.1.0"
+authors = ["Seact"]
+edition = "2018"
+
+[dependencies]
+structopt = "0.2"
+get_if_addrs = "0.5.3"
